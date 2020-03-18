@@ -10,7 +10,7 @@ if ($oparator == "+") {
     $getal2 = readline();
     echo (int) ($getal1+$getal2);
 }
-elseif ($oparator = "-") {
+elseif ($oparator == "-") {
 
     echo ("getal nummer 1?");
     $getal3 = readline();
